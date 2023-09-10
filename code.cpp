@@ -5,7 +5,7 @@
 class Solution {
 public:
     
-    const int N=1e6;
+    const int N=1e7;
     
     int tribonacci(int n) {
         
